@@ -1,4 +1,4 @@
-#🚀 Customer Purchase & Shipping Performance Dashboard | Excel Analytics Project
+** 🚀 Customer Purchase & Shipping Performance Dashboard | Excel Analytics Project
 
 I am excited to share my recent data analytics project focused on analyzing customer purchasing behavior and shipping performance through an interactive Excel dashboard.
 
